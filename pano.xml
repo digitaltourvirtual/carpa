@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" start="node3" hassounds="1" appversion="7.1.8">
+  <panorama id="node3">
+    <input width="3000" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="140" projection="4" tilt="-29.2649" pan="8.54889"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="" longitude="" tags="MENU" latitude="" nodeid="node3" customnodeid="" title="Inicio" copyright="" author="" datetime="26/09/2024 13:47" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="" id="Point01" target="_blank" skinid="ht_node_pin_carpa" tilt="-19.18" title="" pan="-50.17" description=""/>
+      <hotspot url="" id="Point02" target="_blank" skinid="ht_node_pin_posto1" tilt="-18" title="" pan="-359.6" description=""/>
+      <hotspot url="" id="Point03" target="_blank" skinid="ht_node_pin_posto2" tilt="-20.46" title="" pan="-298.59" description=""/>
+      <hotspot url="" id="Point04" target="_blank" skinid="ht_node_pin_veterinaria" tilt="-21.1" title="" pan="-44.15" description=""/>
+      <hotspot url="" id="Point05" target="_blank" skinid="ht_node_pin_carpaagricola" tilt="-17.46" title="" pan="-55.28" description=""/>
+    </hotspots>
+    <media>
+      <sound nodechangekeep="1" id="locucao" tiltsize="10.000" field="90.000" pan="-334.900" startmutedmobile="0" loop="-1" level="0.900" tilt="15.980" mode="2" pansize="10.000" ambientlevel="0.000">
+        <source url="media/locucao.mp3" mono="1"/>
+      </sound>
+      <sound nodechangekeep="1" id="backgroundmusic" tiltsize="10.000" field="90.000" pan="-41.120" startmutedmobile="0" loop="-1" level="0.250" tilt="8.850" mode="2" pansize="10.000" ambientlevel="0.000">
+        <source url="media/backgroundmusic.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="3000" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="105.475" projection="4" tilt="-19.1612" pan="-4.13842"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="MENU" latitude="" nodeid="node2" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="24/09/2024 14:28" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" id="Point01" target="0.8/-0.3/135.0" skinid="ht_node" tilt="-28.06" title="Carpa Agrovet" pan="-5.23" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input width="1632" levelingroll="-0.52510999999999997" levelbiashidpi="1.000" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0.35203699999999999" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="VETERINARIA" longitude="" tags="MENU" latitude="" nodeid="node34" customnodeid="" title="Clinica Veterinária" copyright="" author="" datetime="20/02/2025 13:36" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" id="Point01" target="-89.3/-1.0/135.0" skinid="ht_node" tilt="-0.09" title="Carpa Agrovet" pan="-90.7" description=""/>
+    </hotspots>
+    <media>
+      <lensflare color="0xffffff" id="Lensflare01" tilt="72.100" type="1" pan="-247.510" blinding="50.000" alpha="80.000"/>
+    </media>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="133.51" projection="4" tilt="-0.853723" pan="54.7799"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="MENU" latitude="" nodeid="node6" customnodeid="" title="Carpa Agricola" copyright="" author="" datetime="20/02/2025 13:59" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node20}" id="Point01" target="-92.9/-2.4/135.0" skinid="ht_node" tilt="-2.9" title="Carpa Agrovet" pan="-52.25" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="3000" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="105.475" projection="4" tilt="-17.4972" pan="-1.93033"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fov="100" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO1" longitude="" tags="MENU" latitude="" nodeid="node1" customnodeid="" title="Auto Posto 1" copyright="" author="" datetime="24/09/2024 10:54" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node37}" id="Point01" target="67.9/-1.0/135.0" skinid="ht_node" tilt="-13.11" title="Auto Posto 1" pan="-342.61" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="3000" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3000" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="3000" preload="0" predecode="0" height="3000"/>
+      <level width="1500" preload="0" predecode="0" height="1500"/>
+      <level width="750" preload="0" predecode="0" height="750"/>
+      <level width="375" preload="1" predecode="1" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="105.475" projection="4" tilt="-19.5257" pan="1.2121"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="MENU" latitude="" nodeid="node5" customnodeid="" title="Auto Posto 2" copyright="" author="" datetime="09/10/2024 13:44" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node38}" id="Point01" target="-5.4/2.4/135.0" skinid="ht_node" tilt="-23.22" title="Auto Posto 2" pan="-358.57" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1632" levelingroll="-0.80116600000000004" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0.59505600000000003" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node7" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:34" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node8}" id="Point01" target="3.7/-1.1/135.0" skinid="ht_node" tilt="-3.36" title="Carpa Agrovet" pan="-357.25" description=""/>
+      <hotspot url="{node2}" id="Point02" target="-4.4/-22.2/107.2" skinid="ht_node" tilt="24.49" title="Carpa Agrovet" pan="-182.57" description=""/>
+      <hotspot url="{node34}" id="Point03" target="97.2/-0.9/135.0" skinid="ht_node" tilt="-0.2" title="Clinica Veterinária" pan="-269.39" description=""/>
+      <hotspot url="{node28}" id="Point04" target="0.0/0.0/135.0" skinid="ht_node" tilt="-0.61" title="Carpa Agrovet" pan="-86.02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node8" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:36" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" id="Point01" target="179.2/-5.3/135.0" skinid="ht_node" tilt="-0.49" title="Carpa Agrovet" pan="-175.86" description=""/>
+      <hotspot url="{node9}" id="Point02" target="-141.5/0.1/135.0" skinid="ht_node" tilt="-0.0999999" title="Carpa Agrovet" pan="-333.79" description=""/>
+      <hotspot url="{node17}" id="Point03" target="23.3/-0.7/135.0" skinid="ht_node" tilt="-0.83" title="Carpa Agrovet" pan="-30.32" description=""/>
+      <hotspot url="{node16}" id="Point04" target="-55.2/1.1/135.0" skinid="ht_node" tilt="-0.19" title="Carpa Agrovet" pan="-297.27" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node9" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:37" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node8}" id="Point01" target="-165.5/1.5/135.0" skinid="ht_node" tilt="-3.3" title="Carpa Agrovet" pan="-330.18" description=""/>
+      <hotspot url="{node10}" id="Point02" target="-1.0/0.7/135.0" skinid="ht_node" tilt="-2.68" title="Carpa Agrovet" pan="-163.33" description=""/>
+      <hotspot url="{node16}" id="Point03" target="-7.0/-2.8/135.0" skinid="ht_node" tilt="-0.26" title="Carpa Agrovet" pan="-56.29" description=""/>
+      <hotspot url="{node17}" id="Point04" target="-39.6/0.0/135.0" skinid="ht_node" tilt="-0.6" title="Carpa Agrovet" pan="-256.62" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node10" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:38" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node9}" id="Point01" target="19.7/0.2/135.0" skinid="ht_node" tilt="-1.12" title="Carpa Agrovet" pan="-176.69" description=""/>
+      <hotspot url="{node33}" id="Point02" target="-6.8/0.1/135.0" skinid="ht_node" tilt="-0.26" title="Carpa Agrovet" pan="-0.28" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node11" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:38" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node12}" id="Point02" target="-48.1/-1.7/135.0" skinid="ht_node" tilt="-0.54" title="Carpa Agrovet" pan="-0.75" description=""/>
+      <hotspot url="{node14}" id="Point03" target="0.6/2.3/135.0" skinid="ht_node" tilt="-0.54" title="Carpa Agrovet" pan="-269.26" description=""/>
+      <hotspot url="{node20}" id="Point04" target="5.3/-1.2/135.0" skinid="ht_node" tilt="-2.92" title="Carpa Agrovet" pan="-88.7" description=""/>
+      <hotspot url="{node33}" id="Point01" target="172.2/0.3/135.0" skinid="ht_node" tilt="-0.44" title="Carpa Agrovet" pan="-180.09" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="1632" levelingroll="0.59710600000000003" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="-0.15857499999999999" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node12" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:39" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node11}" id="Point01" target="-179.2/-2.2/135.0" skinid="ht_node" tilt="-1.23" title="Carpa Agrovet" pan="-223.47" description=""/>
+      <hotspot url="{node13}" id="Point02" target="6.6/-0.0/135.0" skinid="ht_node" tilt="-0.58" title="Carpa Agrovet" pan="-303.78" description=""/>
+      <hotspot url="{node21}" id="Point03" target="-72.5/-0.6/135.0" skinid="ht_node" tilt="-1.17" title="Carpa Agrovet" pan="-111.43" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node13" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:40" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node12}" id="Point01" target="-130.5/0.4/135.0" skinid="ht_node" tilt="-0.86" title="Carpa Agrovet" pan="-175" description=""/>
+      <hotspot url="{node14}" id="Point02" target="92.4/-0.3/135.0" skinid="ht_node" tilt="-1.77" title="Carpa Agrovet" pan="-274.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="1632" levelingroll="-0.280194" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="-0.44521500000000003" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node14" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:43" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node13}" id="Point01" target="-94.4/-2.2/135.0" skinid="ht_node" tilt="-1.22" title="Carpa Agrovet" pan="-88.7" description=""/>
+      <hotspot url="{node11}" id="Point02" target="-91.1/-0.1/135.0" skinid="ht_node" tilt="-1.37" title="Carpa Agrovet" pan="-179.87" description=""/>
+      <hotspot url="{node32}" id="Point03" target="85.6/-1.1/135.0" skinid="ht_node" tilt="-0.26" title="Carpa Agrovet" pan="-268.55" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node15" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:45" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node14}" id="Point01" target="-89.0/-0.2/135.0" skinid="ht_node" tilt="-0.39" title="Carpa Agrovet" pan="-86.37" description=""/>
+      <hotspot url="{node16}" id="Point02" target="55.7/-1.6/135.0" skinid="ht_node" tilt="-3.24" title="Carpa Agrovet" pan="-265.66" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node16" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:47" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node15}" id="Point01" target="-84.0/0.0/135.0" skinid="ht_node" tilt="-2.05" title="Carpa Agrovet" pan="-123.5" description=""/>
+      <hotspot url="{node9}" id="Point02" target="130.9/-0.3/135.0" skinid="ht_node" tilt="-0.61" title="Carpa Agrovet" pan="-192.15" description=""/>
+      <hotspot url="{node8}" id="Point03" target="-127.8/-0.1/135.0" skinid="ht_node" tilt="0.15" title="Carpa Agrovet" pan="-250.31" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node17" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:48" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node9}" id="Point01" target="-71.0/0.0/135.0" skinid="ht_node" tilt="-0.44" title="Carpa Agrovet" pan="-217.82" description=""/>
+      <hotspot url="{node18}" id="Point02" target="0.0/0.0/135.0" skinid="ht_node" tilt="-0.61" title="Carpa Agrovet" pan="-306.91" description=""/>
+      <hotspot url="{node24}" id="Point03" target="9.3/1.5/135.0" skinid="ht_node" tilt="-2.03" title="Carpa Agrovet" pan="-48.69" description=""/>
+      <hotspot url="{node8}" id="Point04" target="155.5/0.3/135.0" skinid="ht_node" tilt="-3.5" title="Carpa Agrovet" pan="-161.06" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node18" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:49" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node17}" id="Point01" target="-124.8/-0.1/135.0" skinid="ht_node" tilt="-0.52" title="Carpa Agrovet" pan="-173.91" description=""/>
+      <hotspot url="{node19}" id="Point02" target="1.1/-1.5/135.0" skinid="ht_node" tilt="0.44" title="Carpa Agrovet" pan="-358.48" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node19" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:50" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node18}" id="Point01" target="-176.0/-2.0/135.0" skinid="ht_node" tilt="-1.06" title="Carpa Agrovet" pan="-177.76" description=""/>
+      <hotspot url="{node20}" id="Point02" target="94.5/-0.9/135.0" skinid="ht_node" tilt="-1.77" title="Carpa Agrovet" pan="-358.82" description=""/>
+      <hotspot url="{node22}" id="Point03" target="0.0/0.0/135.0" skinid="ht_node" tilt="0.2" title="Carpa Agrovet" pan="-91.04" description=""/>
+      <hotspot url="{node33}" id="Point04" target="83.7/-1.6/135.0" skinid="ht_node" tilt="-1.05" title="Carpa Agrovet" pan="-269.25" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node20" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:50" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node11}" id="Point01" target="90.1/-0.3/135.0" skinid="ht_node" tilt="-1.64" title="Carpa Agrovet" pan="-174.61" description=""/>
+      <hotspot url="{node19}" id="Point02" target="-179.0/-0.6/135.0" skinid="ht_node" tilt="-1.15" title="Carpa Agrovet" pan="-85.22" description=""/>
+      <hotspot url="{node21}" id="Point03" target="-9.9/1.7/135.0" skinid="ht_node" tilt="0.55" title="Carpa Agrovet" pan="-264.43" description=""/>
+      <hotspot url="{node6}" id="Point04" target="84.8/0.6/133.5" skinid="ht_node" tilt="-1.03" title="Carpa Agricola" pan="-286.59" description=""/>
+      <hotspot url="{node26}" id="Point05" target="163.1/-0.4/135.0" skinid="ht_node" tilt="-0.74" title="Carpa Agrovet" pan="-316.08" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node21" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:51" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node20}" id="Point01" target="-86.1/-0.6/135.0" skinid="ht_node" tilt="-0.25" title="Carpa Agrovet" pan="-191.02" description=""/>
+      <hotspot url="{node30}" id="Point02" target="-7.2/-0.6/135.0" skinid="ht_node" tilt="-0.96" title="Carpa Agrovet" pan="-26.28" description=""/>
+      <hotspot url="{node12}" id="Point03" target="67.9/0.4/135.0" skinid="ht_node" tilt="-1.21" title="Carpa Agrovet" pan="-259.05" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input width="1632" levelingroll="-0.10441300000000001" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0.222468" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node22" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:52" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node19}" id="Point01" target="92.0/-0.0/135.0" skinid="ht_node" tilt="-0.44" title="Carpa Agrovet" pan="-179.74" description=""/>
+      <hotspot url="{node23}" id="Point02" target="-90.7/-1.7/135.0" skinid="ht_node" tilt="-2.81" title="Carpa Agrovet" pan="-87.95" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node23" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:53" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node22}" id="Point01" target="91.8/-1.0/135.0" skinid="ht_node" tilt="-2.14" title="Carpa Agrovet" pan="-270.61" description=""/>
+      <hotspot url="{node24}" id="Point02" target="-69.4/-1.1/135.0" skinid="ht_node" tilt="-0.37" title="Carpa Agrovet" pan="-89" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node24" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:53" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node23}" id="Point01" target="89.7/-2.8/135.0" skinid="ht_node" tilt="-0.97" title="Carpa Agrovet" pan="-255.23" description=""/>
+      <hotspot url="{node17}" id="Point02" target="134.0/0.8/135.0" skinid="ht_node" tilt="-0.43" title="Carpa Agrovet" pan="-172.24" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node25" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:53" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" id="Point01" target="71.7/0.8/135.0" skinid="ht_node" tilt="-0.44" title="Carpa Agrovet" pan="-1.5" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node26" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:54" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node20}" id="Point01" target="-148.2/2.7/135.0" skinid="ht_node" tilt="-0.83" title="Carpa Agrovet" pan="-18.44" description=""/>
+      <hotspot url="{node27}" id="Point02" target="2.3/-0.8/135.0" skinid="ht_node" tilt="-1.32" title="Carpa Agrovet" pan="-288.47" description=""/>
+      <hotspot url="{node25}" id="Point03" target="178.8/2.8/135.0" skinid="ht_node" tilt="-0.85" title="Carpa Agrovet" pan="-109.29" description=""/>
+      <hotspot url="{node29}" id="Point04" target="16.0/0.0/135.0" skinid="ht_node" tilt="-2.99" title="Carpa Agrovet" pan="-7.02" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node27" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:55" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" id="Point01" target="-106.7/-3.9/135.0" skinid="ht_node" tilt="-1.35" title="Carpa Agrovet" pan="-176.22" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node28" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:55" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node7}" id="Point01" target="0.0/0.0/135.0" skinid="ht_node" tilt="0.26" title="Carpa Agrovet" pan="-310.83" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node29" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 13:59" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node26}" id="Point01" target="-139.7/-1.8/135.0" skinid="ht_node" tilt="-1.46" title="Carpa Agrovet" pan="-172.17" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node30" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 14:01" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node21}" id="Point01" target="168.0/-0.1/135.0" skinid="ht_node" tilt="10.26" title="Carpa Agrovet" pan="-185.94" description=""/>
+      <hotspot url="{node31}" id="Point02" target="-3.2/-0.3/135.0" skinid="ht_node" tilt="-0.61" title="Carpa Agrovet" pan="-310.42" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node31" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 14:02" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node30}" id="Point01" target="-114.7/-1.5/135.0" skinid="ht_node" tilt="-2.8" title="Carpa Agrovet" pan="-170.75" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node32" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 14:02" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node33}" id="Point01" target="-94.6/1.1/135.0" skinid="ht_node" tilt="-0.27" title="Carpa Agrovet" pan="-181.67" description=""/>
+      <hotspot url="{node15}" id="Point02" target="93.6/2.5/135.0" skinid="ht_node" tilt="-1.36" title="Carpa Agrovet" pan="-273.96" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AGROVET" longitude="" tags="AGROVET" latitude="" nodeid="node33" customnodeid="" title="Carpa Agrovet" copyright="" author="" datetime="20/02/2025 14:03" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node19}" id="Point01" target="-90.5/-1.1/135.0" skinid="ht_node" tilt="-2.74" title="Carpa Agrovet" pan="-96.39" description=""/>
+      <hotspot url="{node32}" id="Point02" target="0.0/0.0/135.0" skinid="ht_node" tilt="-1.57" title="Carpa Agrovet" pan="-276.64" description=""/>
+      <hotspot url="{node10}" id="Point03" target="-178.7/-1.7/135.0" skinid="ht_node" tilt="-0.47" title="Carpa Agrovet" pan="-188.06" description=""/>
+      <hotspot url="{node11}" id="Point04" target="0.0/0.0/135.0" skinid="ht_node" tilt="-0.51" title="Carpa Agrovet" pan="-6.89" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO1" longitude="" tags="POSTO1" latitude="" nodeid="node35" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 13:56" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node37}" id="Point01" target="84.1/-4.2/135.0" skinid="ht_node" tilt="-0.25" title="Auto Posto 1" pan="-98.86" description=""/>
+      <hotspot url="{node36}" id="Point02" target="113.8/-0.6/135.0" skinid="ht_node" tilt="0.08" title="" pan="-274.06" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO1" longitude="" tags="POSTO1" latitude="" nodeid="node36" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 13:56" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node35}" id="Point01" target="-92.7/1.2/135.0" skinid="ht_node" tilt="-1.82" title="" pan="-64.82" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO1" longitude="" tags="" latitude="" nodeid="node37" customnodeid="" title="Auto Posto 1" copyright="" author="" datetime="20/02/2025 13:58" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node35}" id="Point01" target="81.0/-0.5/135.0" skinid="ht_node" tilt="-1.81" title="" pan="-91.79" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="" latitude="" nodeid="node38" customnodeid="" title="Auto Posto 2" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node39}" id="Point01" target="11.2/1.0/135.0" skinid="ht_node" tilt="-2.58" title="" pan="-1.81" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node39">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="POSTO2" latitude="" nodeid="node39" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node38}" id="Point01" target="-179.4/8.3/135.0" skinid="ht_node" tilt="-0.38" title="Auto Posto 2" pan="-147.87" description=""/>
+      <hotspot url="{node40}" id="Point02" target="0.0/0.0/135.0" skinid="ht_node" tilt="0.28" title="" pan="-343.23" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="POSTO2" latitude="" nodeid="node40" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node39}" id="Point01" target="-156.8/-4.5/135.0" skinid="ht_node" tilt="-0.91" title="" pan="-171.56" description=""/>
+      <hotspot url="{node41}" id="Point02" target="-3.6/0.0/135.0" skinid="ht_node" tilt="0.25" title="" pan="-342.49" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="POSTO2" latitude="" nodeid="node41" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node40}" id="Point01" target="175.6/-0.4/135.0" skinid="ht_node" tilt="0.49" title="" pan="-177.61" description=""/>
+      <hotspot url="{node42}" id="Point02" target="-8.3/-2.1/135.0" skinid="ht_node" tilt="1.05" title="" pan="-104.74" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="POSTO2" latitude="" nodeid="node42" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node41}" id="Point01" target="60.3/-0.4/135.0" skinid="ht_node" tilt="-2.63" title="" pan="-234.4" description=""/>
+      <hotspot url="{node43}" id="Point02" target="-127.2/2.2/135.0" skinid="ht_node" tilt="-3.12" title="" pan="-252.12" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input width="1632" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1632" leveltilesize="510" levelbias="0.400" levelingpitch="0" overlap="1">
+      <level width="1632" preload="0" predecode="0" height="1632"/>
+      <level width="816" preload="0" predecode="0" height="816"/>
+      <level width="408" preload="1" predecode="1" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="135" projection="4" tilt="0" pan="0"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fov="140" scaletofit="1" fovstereographic="330" tilt="90" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata info="AUTOPOSTO2" longitude="" tags="POSTO2" latitude="" nodeid="node43" customnodeid="" title="" copyright="" author="" datetime="20/02/2025 21:21" heading="0" source="" comment="" description=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" wordwrap="1" backgroundcolor="0xffffff" border="1" bordercolor="0x000000" height="20" background="1" borderradius="1" borderalpha="1" enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot url="{node42}" id="Point01" target="-28.9/0.1/135.0" skinid="ht_node" tilt="0.11" title="" pan="-277.25" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" softedge="0" blendcolor="0x000000" zoomafterinfov="140" zoomfov="40" zoomafteroutfov="40" enabled="1" type="crossdissolve" blendtime="0.5" delay="none" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" zoomcentercursor="1" speedwheel="1" rubberband="0" lockedkeyboard="0" contextvr="1" hideabout="0" contextprojections="0" lockedmouse="0" lockedwheel="0" invertwheel="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="Grupo Carpa" copyright="" comment="" description="Sejam Bem-vindos ao Tour Virtual 360º" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
