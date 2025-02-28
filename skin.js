@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: carpa.ggsk
-// Generated 2025-02-25T11:10:58
+// Generated 2025-02-28T14:51:09
 
 function pano2vrSkin(player,base) {
 	player.addVariable('var_menu', 2, false, { ignoreInState: 0  });
@@ -7393,7 +7393,7 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_rectangle ";
 		el.ggType='rectangle';
 		hs ='';
-		hs+='background : #ffffff;';
+		hs+='background : #ff8717;';
 		hs+='border : 2px solid #ff8717;';
 		hs+='border-radius : 10px;';
 		hs+='height : 32px;';
@@ -7417,43 +7417,8 @@ function pano2vrSkin(player,base) {
 			}
 			return player.getCurrentNode();
 		}
-		me.__4010_1_mobile.logicBlock_backgroundcolor = function() {
-			var newLogicStateBackgroundColor;
-			if (
-				((me.elementMouseDown['_4010_1_mobile'] == true))
-			)
-			{
-				newLogicStateBackgroundColor = 0;
-			}
-			else {
-				newLogicStateBackgroundColor = -1;
-			}
-			if (me.__4010_1_mobile.ggCurrentLogicStateBackgroundColor != newLogicStateBackgroundColor) {
-				me.__4010_1_mobile.ggCurrentLogicStateBackgroundColor = newLogicStateBackgroundColor;
-				me.__4010_1_mobile.style.transition='background-color 500ms ease 0ms';
-				if (me.__4010_1_mobile.ggCurrentLogicStateBackgroundColor == 0) {
-					me.__4010_1_mobile.style.backgroundColor="rgba(66,140,92,0.117647)";
-				}
-				else {
-					me.__4010_1_mobile.style.backgroundColor="rgba(255,255,255,1)";
-				}
-			}
-		}
-		me.__4010_1_mobile.logicBlock_backgroundcolor();
 		me.__4010_1_mobile.onclick=function (e) {
 			player.setVariableValue('var_menu', true);
-		}
-		me.__4010_1_mobile.onmousedown=function (e) {
-			me.elementMouseDown['_4010_1_mobile']=true;
-			me.__4010_1_mobile.logicBlock_backgroundcolor();
-		}
-		me.__4010_1_mobile.onmouseup=function (e) {
-			me.elementMouseDown['_4010_1_mobile']=false;
-			me.__4010_1_mobile.logicBlock_backgroundcolor();
-		}
-		me.__4010_1_mobile.onmouseleave=function (e) {
-			me.elementMouseDown['_4010_1_mobile']=false;
-			me.__4010_1_mobile.logicBlock_backgroundcolor();
 		}
 		me.__4010_1_mobile.ggUpdatePosition=function (useTransition) {
 		}
@@ -7468,7 +7433,7 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_text fonte_regular";
 		el.ggType='text';
 		hs ='';
-		hs+='color : rgba(2,39,15,1);';
+		hs+='color : rgba(255,255,255,1);';
 		hs+='height : auto;';
 		hs+='left : 49px;';
 		hs+='position : absolute;';
@@ -7805,7 +7770,6 @@ function pano2vrSkin(player,base) {
 		me.__4010_1_mobile.appendChild(me.__40105_mobile);
 		me.__4010_mobile.appendChild(me.__4010_1_mobile);
 		me.__div.appendChild(me.__4010_mobile);
-		me.__4010_1_mobile.logicBlock_backgroundcolor();
 		me.__40102_mobile.logicBlock_visible();
 		me.__40103_mobile.logicBlock_visible();
 		me.__40104_mobile.logicBlock_visible();
@@ -7906,7 +7870,7 @@ function pano2vrSkin(player,base) {
 		}
 		el=me.__4011=document.createElement('div');
 		el.ggId="4.0.1.1";
-		el.ggDy=2;
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_rectangle ";
@@ -7918,7 +7882,7 @@ function pano2vrSkin(player,base) {
 		hs+='opacity : 0;';
 		hs+='position : absolute;';
 		hs+='right : 0px;';
-		hs+='top : calc(50% - ((38px + 0px) / 2) + 2px);';
+		hs+='top : calc(50% - ((38px + 0px) / 2) + 0px);';
 		hs+='visibility : hidden;';
 		hs+='width : 50px;';
 		hs+='pointer-events:auto;';
@@ -7952,11 +7916,11 @@ function pano2vrSkin(player,base) {
 				me.__4011.style.transition='right 500ms ease 0ms, top 500ms ease 0ms, opacity 500ms ease 0ms';
 				if (me.__4011.ggCurrentLogicStatePosition == 0) {
 					me.__4011.style.right='-28px';
-					me.__4011.style.top = 'calc(50% - (38px / 2) - (0px / 2) + 2px)';
+					me.__4011.style.top = 'calc(50% - (38px / 2))';
 				}
 				else {
 					me.__4011.style.right='0px';
-					me.__4011.style.top='calc(50% - ((38px + 0px) / 2) + 2px)';
+					me.__4011.style.top='calc(50% - ((38px + 0px) / 2) + 0px)';
 				}
 			}
 		}
@@ -8071,11 +8035,11 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_rectangle ";
 		el.ggType='rectangle';
 		hs ='';
-		hs+='background : #ffffff;';
-		hs+='border : 2px solid #ff8717;';
+		hs+='background : #ff8717;';
+		hs+='border : 0px solid #ff8717;';
 		hs+='border-radius : 10px;';
 		hs+='height : 38px;';
-		hs+='left : calc(50% - ((100% + 4px) / 2) + 0px);';
+		hs+='left : calc(50% - ((100% + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
@@ -8108,7 +8072,7 @@ function pano2vrSkin(player,base) {
 		el.className="ggskin ggskin_text fonte_medium";
 		el.ggType='text';
 		hs ='';
-		hs+='color : rgba(2,39,15,1);';
+		hs+='color : rgba(255,255,255,1);';
 		hs+='height : auto;';
 		hs+='left : 53px;';
 		hs+='position : absolute;';
